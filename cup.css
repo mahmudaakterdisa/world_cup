@@ -1,0 +1,75 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* all header works */
+
+
+.match-show {
+    display: flex;
+    background-color: #161616;
+    border-radius: 30px;
+    width: 1321px;
+    height: 646px;
+    margin-left: 15%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+}
+
+.about-match {
+    width: 531px;
+    height: 424px;
+    padding-left: 106px;
+    padding-top: 70px;
+    padding-right: 24px;
+    padding-bottom: 111px;
+}
+
+.about-match h3 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 70px;
+    margin: 0;
+
+}
+
+.about-match p {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0;
+}
+
+
+.btn {
+    color: white;
+    background-color: red;
+    border-radius: 8px;
+    width: 187px;
+    height: 56px;
+    margin-top: 30px;
+    transition-property: width;
+    transition-delay: 0.5s;
+    transition-duration: 4s;
+
+
+}
+
+
+.btn i {
+    padding-left: 3em;
+}
+
+.btn:hover {
+    width: 259px;
+    font-size: 15px;
+}
+
+.player img {
+    width: 581px;
+    height: 613px;
+    padding-right: 79px;
+    padding-top: 33px;
+}
