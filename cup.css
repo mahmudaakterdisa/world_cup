@@ -73,8 +73,8 @@ body {
 }
 
 .player img {
-    width: 581px;
-    height: 613px;
+    width: 90%;
+    height: 95%;
     padding-right: 79px;
     padding-top: 33px;
 }
@@ -160,7 +160,21 @@ body {
 }
 
 
+/* only display on tablet view */
+.view-button {
+    display: none;
+    margin-top: 2%;
+    margin-left: 50%;
 
+}
+
+.btn3 {
+    background-color: red;
+    color: white;
+    width: 131px;
+    height: 47px;
+    border-radius: 7px;
+}
 
 
 /* Footer styles */
@@ -197,3 +211,5 @@ body {
 }
 
 /* Footer end here */
+
+/* This is for responsive work */
