@@ -164,7 +164,7 @@ body {
 
 /* only display on tablet view */
 .view-button {
-    display: none;
+    visibility: hidden;
     margin-top: 2%;
     margin-left: 50%;
 
