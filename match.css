@@ -130,16 +130,24 @@ body {
 }
 
 .lattest-match {
-    background-color: whitesmoke;
+    /* background-color: whitesmoke;
     height: 386px;
     width: 382px;
-    border-radius: 15px;
+    border-radius: 15px; */
 
 
 }
 
 .lattest-match img {
-    width: 100%;
+    /* width: 10px; */
+}
+
+.resize {
+    /* width: 10px; */
+}
+
+.vs {
+    display: flex;
 }
 
 .blog-info {
