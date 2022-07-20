@@ -121,65 +121,18 @@ body {
 
 /* All blogs styles */
 
-.live-match {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    row-gap: 24px;
-    column-gap: 10px;
-    margin-left: 10px;
-}
-
-.lattest-match {
-    /* background-color: whitesmoke;
-    height: 386px;
-    width: 382px;
-    border-radius: 15px; */
-
-
-}
-
-.lattest-match img {
-    /* width: 10px; */
-}
-
-.resize {
-    /* width: 10px; */
-}
-
-.vs {
-    display: flex;
-}
-
-.blog-info {
-    padding-left: 20px;
-}
-
-.special-icons {
-    display: flex;
-
-}
-
-.special-icons i {
-    margin-right: 10px;
-}
-
-#hours {
-    padding-right: 35px;
-}
-
 
 
 
 
 /* Footer styles */
 
-
-.important-info {
+/* .important-info {
     background-color: #161616;
 
     height: 200px;
     padding-top: 40px;
-    margin-top: 60px;
+    margin-top: 1000px;
 
 }
 
@@ -202,6 +155,6 @@ body {
 .info {
     color: #B9B9B9;
     padding-right: 30px;
-}
+} */
 
 /* Footer end here */
