@@ -1,8 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    width: 1600px;
-    height: 1808px;
-    border: 10px solid green;
+
     margin: 0 auto;
 
 }
@@ -164,6 +162,22 @@ body {
     text-align: center;
 }
 
+/* only display on tablet view */
+.view-button {
+    display: none;
+    margin-top: 2%;
+    margin-left: 50%;
+
+}
+
+.btn3 {
+    background-color: red;
+    color: white;
+    width: 131px;
+    height: 47px;
+    border-radius: 7px;
+}
+
 /* blog styles done */
 
 
@@ -172,7 +186,9 @@ body {
 .important-info {
     background-color: #161616;
 
-    height: 200px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
     padding-top: 40px;
     margin-top: 12%;
 
